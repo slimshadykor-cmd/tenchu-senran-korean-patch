@@ -3,8 +3,6 @@
 Xbox 360 / Xenia용 · v0.9.4 ISO 적용판 1.12  
 한글화: **슬림쉐이디**
 
-현재 비공개 보관 중입니다.
-
 ## 다운로드
 
 **[ISO 한글패치 1.12 다운로드](https://github.com/slimshadykor-cmd/tenchu-senran-korean-patch/releases/download/tenchu-v0.9.4-iso-1.12/Tenchu_KR_v094_ISO_Patch_AllInOne_v1_12.zip)**
